@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: mw5p56bqk-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/mw5p56bqk-python
